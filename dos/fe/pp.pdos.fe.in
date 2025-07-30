@@ -1,0 +1,5 @@
+&PROJWFC
+  prefix= 'fe-scf',
+  outdir= './out/',
+  filpdos= 'fe_pdos.dat'
+/

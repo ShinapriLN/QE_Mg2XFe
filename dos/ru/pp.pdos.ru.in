@@ -1,0 +1,6 @@
+&PROJWFC
+  prefix= 'ru-scf',
+  outdir= './out/',
+  filpdos= 'ru_pdos.dat'
+/
+

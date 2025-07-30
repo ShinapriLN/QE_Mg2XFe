@@ -1,0 +1,7 @@
+&DOS
+  prefix='fe-scf',
+  outdir='./out/',
+  fildos='fe_dos.dat',
+  emin=-9.0,
+  emax=16.0
+/

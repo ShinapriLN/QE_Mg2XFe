@@ -1,0 +1,5 @@
+&BANDS
+  prefix = 'fe-scf'
+  outdir = './out/'
+  filband = 'fe_bands.dat'
+/

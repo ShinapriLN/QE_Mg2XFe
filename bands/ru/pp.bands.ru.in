@@ -1,0 +1,5 @@
+&BANDS
+  prefix = 'ru-scf'
+  outdir = './out/'
+  filband = 'ru_bands.dat'
+/

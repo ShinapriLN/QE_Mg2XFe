@@ -1,0 +1,7 @@
+&DOS
+  prefix='ru-scf',
+  outdir='./out/',
+  fildos='ru_dos.dat',
+  emin=-9.0,
+  emax=16.0
+/
